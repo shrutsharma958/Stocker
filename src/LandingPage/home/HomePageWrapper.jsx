@@ -11,14 +11,14 @@ import Education from '../home/Education'
 function HomePageWrapper() {
     return (
         <>
-        <Navbar/>
+        
         <Hero/>
         <Awards/>
         <Stats/>
         <Pricing/>
         <Education/>
         <OpenAccount/>
-        <Footer/>
+       
         </>
      );
 }

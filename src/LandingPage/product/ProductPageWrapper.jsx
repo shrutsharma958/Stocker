@@ -9,6 +9,10 @@ function ProductPageWrapper() {
     return ( 
 
         <>
+        <br />
+        <br />
+        <br />
+        <br />
         <Hero/>
         <LeftImage/>
         <RightImage/>

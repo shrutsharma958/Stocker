@@ -7,6 +7,9 @@ function SupportPageWrapper() {
     return ( 
 
         <>
+       <br />
+       <br />
+       <br />
         <Hero/>
         <Ticket/>
         </>
